@@ -4,7 +4,7 @@ public class A {
 
 	public int a =8;
 	int b = 6;
-	protected int c = 79;
+	protected int c = 179;
 	private int d =8;
 	
 	public static void main(String[] args) {
