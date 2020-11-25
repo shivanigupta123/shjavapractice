@@ -11,6 +11,7 @@ public class A {
 	
 	public static void main(String[] args) {
 A aObject = new A();
+System.out.println("Changes done by main");
 System.out.println(aObject.a);
 System.out.println(aObject.b);
 System.out.println(aObject.c);
