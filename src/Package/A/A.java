@@ -5,7 +5,7 @@ public class A {
 	public int a =8;
 	int b = 689898;
 	int c1 = 689898;
-	protected int c = 1179;
+	protected int c = 11179;
 	private int d =8;
 
 	
