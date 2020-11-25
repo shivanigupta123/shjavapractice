@@ -2,7 +2,7 @@ package Package.A;
 
 public class A {
 
-	public int a =8;
+	public int a =8;q
 	int b = 689898;
 	int c1 = 689898;
 	protected int c = 11179;
