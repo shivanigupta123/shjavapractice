@@ -5,7 +5,7 @@ public class A {
 	public int a =8;
 	int b = 6;
 	protected int c = 179;
-	private int d =8;
+	private int d =8888;
 	
 	public static void main(String[] args) {
 A aObject = new A();
