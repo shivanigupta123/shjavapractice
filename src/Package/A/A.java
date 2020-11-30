@@ -12,6 +12,7 @@ public class A {
 public static void main(String[] args) {
 A aObject = new A();
 System.out.println("I am rebase child");
+System.out.println("I am rebase master");
 System.out.println(aObject.a);
 System.out.println(aObject.b);
 System.out.println(aObject.c);
