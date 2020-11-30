@@ -2,7 +2,7 @@ package Package.A;
 
 public class A {
 
-	public int a =8;
+	public int a =8;q
 	int b = 689898;
 	int c1 = 689898;
 	protected int c = 11179;
@@ -11,6 +11,7 @@ public class A {
 	
 	public static void main(String[] args) {
 A aObject = new A();
+System.out.println("Changes done by main");
 System.out.println(aObject.a);
 System.out.println(aObject.b);
 System.out.println(aObject.c);

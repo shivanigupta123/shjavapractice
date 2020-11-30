@@ -2,4 +2,6 @@
 bin/test/
 src/test/
 -muttiInst
+A.java.orig
+bin/*
 
