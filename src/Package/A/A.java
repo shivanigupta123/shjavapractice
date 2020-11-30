@@ -9,10 +9,9 @@ public class A {
 	private int d =8;
 
 	
-	public static void main(String[] args) {
+public static void main(String[] args) {
 A aObject = new A();
 System.out.println("I am rebase child");
-System.out.println("Changes done by try");
 System.out.println(aObject.a);
 System.out.println(aObject.b);
 System.out.println(aObject.c);
